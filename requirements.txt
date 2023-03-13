@@ -1,4 +1,3 @@
-streamlit
-inotify
-pandas
-llama-index
+version https://git-lfs.github.com/spec/v1
+oid sha256:498bdd581a59ca4a4010ad29a1cdb5109ee8266b0d3f23b09b4b9f05146777e4
+size 41
